@@ -15,7 +15,7 @@ cd /Users/igor/Downloads/Vieux-master
 sudo -H pip3 install --upgrade pip
 sudo -H pip3 install -r requirements.txt
 ./Vieux -i /Volumes/DMG/iOS/Downgrade/iPhone/iPhone4,1_6.1.3_10B329_Restore.
-Получилось так: Устанавливаем менеджер пакетов, введя в терминал команду /bin/bash -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh"
+Получилось так: Устанавливаем менеджер пакетов, введя в терминал команду /bin/bash -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 cd /Users/igor/Downloads/Vieux-master
 sudo -H pip3 install --upgrade pip
 sudo -H pip3 install -r requirements.txt
